@@ -1,0 +1,22 @@
+{
+  "name": "FAPI",
+  "version": "0.1.0",
+  "summary": "A short description of FAPI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhkbgt/FAPI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhkbgt": "kkbbggtt@163.com"
+  },
+  "source": {
+    "git": "https://github.com/zhkbgt/FAPI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FAPI/Classes/**/*"
+}

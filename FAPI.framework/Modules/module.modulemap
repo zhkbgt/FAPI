@@ -1,0 +1,6 @@
+framework module FAPI {
+  umbrella header "FAPI.h"
+
+  export *
+  module * { export * }
+}

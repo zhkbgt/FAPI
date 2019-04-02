@@ -1,0 +1,22 @@
+[{
+ "name":"audioStreamer",
+ "class":"audioStreamer",
+ "methods":["openPlayer","pause","resume","stop","seekToTime","getCurrentTime","getBufferingRatio","addEventListener","setVolume","getVolume","onCall","onNormal","setLoop","addProgressListener","removeProgressListener"]
+ }
+,{
+    "name":"mam",
+    "class":"UZMAM",
+    "methods":["checkUpdate","addEvent","execCommand","showToastAlert","hideToastAlert"],
+    "syncMethods":["syncExecCommand"],
+    "launchClassMethod":"launch"
+}
+,{
+    "name":"playModule",
+    "class":"PlayModule"
+ }
+,{
+     "name":"softInputMgr",
+     "class":"SoftKeyboardMgr",
+     "methods":["toggleKeyboard"]
+ }
+]
